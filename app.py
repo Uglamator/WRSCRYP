@@ -6,6 +6,7 @@ Created on Mon Feb  1 17:39:01 2021
 """
 
 import pandas as pd
+import gunicorn
 import datetime as dt
 import sqlite3
 import dash
