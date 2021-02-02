@@ -127,4 +127,4 @@ def update_graph(n):
 
 
 if __name__ == '__main__':
-     app.run_server(debug=True)
+     app.run_server()
