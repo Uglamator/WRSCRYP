@@ -2,7 +2,7 @@
 """
 Created on Mon Feb  1 22:26:01 2021
 
-@author: jorda
+@author:
 """
 
 from requests import Request, Session
@@ -16,7 +16,7 @@ parameters = {
 }
 headers = {
   'Accepts': 'application/json',
-  'X-CMC_PRO_API_KEY': '612e5630-f40e-4fac-9ed3-e1d3e38e0b3a',
+  'X-CMC_PRO_API_KEY': ',
 }
 
 session = Session()
